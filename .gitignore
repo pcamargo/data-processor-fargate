@@ -7,6 +7,8 @@ terraform.tfstate
 terraform.tfstate.*
 *.tfplan
 
+/docs/article.md
+/docs/linkedin.md
 .env
 *.tfvars
 !terraform.tfvars.example
